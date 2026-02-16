@@ -1,3 +1,6 @@
+0.99 16feb2026
+* fix Python 3.12+ deprecations and 3.13 pipe handling for WeeWX 5.2 (#197)
+
 0.96b1
 * added support for EMAX EM3551H sensors - raddy station (#192 alpha-sg31)
 * added support for Vivor7in1 - thanks to ivan
